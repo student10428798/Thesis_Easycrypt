@@ -1,3 +1,2 @@
 # Thesis_Easycrypt
-This is a thesis about the interchangeability of libraries in Easycrypt at the UvA.
-The corresponding Easycrypt files can be found in the folder.
+This repository contains the Easycrypt files corresponding the thesis of student 10428798 at the UvA.
